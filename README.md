@@ -8,3 +8,5 @@ Here you will find the code for these projects:
 3)Caesars Cipher
 4)Telephone Number Validator
 5)Cash Register
+
+Here is the certification link: https://www.freecodecamp.org/certification/edma2506/javascript-algorithms-and-data-structures
